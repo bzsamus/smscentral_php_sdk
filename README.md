@@ -1,4 +1,4 @@
-smscentral_php_sdk
+SMSCentral PHP SDK
 ==================
 
 SMSCentral PHP SDK
